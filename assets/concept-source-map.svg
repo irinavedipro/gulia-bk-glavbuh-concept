@@ -1,0 +1,64 @@
+<svg width="840" height="1040" viewBox="0 0 840 1040" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="core" x1="202" y1="380" x2="644" y2="716" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D4B7"/>
+      <stop offset="0.55" stop-color="#E9E8D2"/>
+      <stop offset="1" stop-color="#D5E3EE"/>
+    </linearGradient>
+    <filter id="shadow" x="92" y="84" width="656" height="856" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#071A17" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="840" height="1040" rx="56" fill="#173E38"/>
+  <circle cx="420" cy="520" r="264" stroke="#E8D7C3" stroke-opacity="0.16" stroke-width="2"/>
+  <circle cx="420" cy="520" r="334" stroke="#E8D7C3" stroke-opacity="0.08" stroke-width="2"/>
+
+  <path d="M420 250V356" stroke="#EEDFCB" stroke-opacity="0.62" stroke-width="3" stroke-linecap="round"/>
+  <path d="M286 400L340 432" stroke="#EEDFCB" stroke-opacity="0.62" stroke-width="3" stroke-linecap="round"/>
+  <path d="M554 400L500 432" stroke="#EEDFCB" stroke-opacity="0.62" stroke-width="3" stroke-linecap="round"/>
+  <path d="M280 776L344 708" stroke="#EEDFCB" stroke-opacity="0.62" stroke-width="3" stroke-linecap="round"/>
+  <path d="M560 776L496 708" stroke="#EEDFCB" stroke-opacity="0.62" stroke-width="3" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="160" y="356" width="520" height="360" rx="40" fill="url(#core)"/>
+  </g>
+  <rect x="160" y="356" width="520" height="360" rx="40" stroke="#FFF5E7" stroke-opacity="0.34" stroke-width="2"/>
+
+  <rect x="170" y="102" width="500" height="148" rx="28" fill="#244F48" stroke="#F4E4CE" stroke-opacity="0.36" stroke-width="2"/>
+  <rect x="72" y="330" width="214" height="160" rx="28" fill="#244F48" stroke="#F4E4CE" stroke-opacity="0.36" stroke-width="2"/>
+  <rect x="554" y="330" width="214" height="160" rx="28" fill="#244F48" stroke="#F4E4CE" stroke-opacity="0.36" stroke-width="2"/>
+  <rect x="72" y="776" width="214" height="160" rx="28" fill="#244F48" stroke="#F4E4CE" stroke-opacity="0.36" stroke-width="2"/>
+  <rect x="554" y="776" width="214" height="160" rx="28" fill="#244F48" stroke="#F4E4CE" stroke-opacity="0.36" stroke-width="2"/>
+
+  <rect x="362" y="148" width="116" height="32" rx="16" fill="#F5D4B7"/>
+  <text x="420" y="169" fill="#173E38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle">запрос</text>
+  <text x="420" y="204" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" text-anchor="middle">Гуля сама</text>
+  <text x="420" y="232" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" text-anchor="middle">сессия и живые формулировки</text>
+
+  <text x="100" y="382" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Публичный</text>
+  <text x="100" y="409" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">образ</text>
+  <text x="100" y="447" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">Instagram</text>
+  <text x="100" y="472" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">и Telegram</text>
+
+  <text x="582" y="382" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Проектный</text>
+  <text x="582" y="409" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">опыт</text>
+  <text x="582" y="447" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">переписка</text>
+  <text x="582" y="472" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">и прошлые попытки</text>
+
+  <text x="100" y="828" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">БК Главбух</text>
+  <text x="100" y="868" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">услуги, клиенты,</text>
+  <text x="100" y="893" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">сильные задачи</text>
+
+  <text x="582" y="828" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Личностная</text>
+  <text x="582" y="855" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">опора</text>
+  <text x="582" y="893" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">тесты, архетипы,</text>
+  <text x="582" y="918" fill="#F2DEC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">знание Ирины</text>
+
+  <rect x="222" y="402" width="172" height="38" rx="19" fill="#173E38" fill-opacity="0.9"/>
+  <text x="308" y="427" fill="#FFF5E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="middle">синтез контекста</text>
+  <text x="222" y="504" fill="#173E38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Концепция Гули</text>
+  <text x="222" y="568" fill="#173E38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">ЖИВАЯ ЛИНИЯ</text>
+  <text x="222" y="624" fill="#173E38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">+ БК КАК ОПОРА</text>
+  <text x="222" y="676" fill="#27483F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">не шаблон для эксперта, а собранная картина</text>
+</svg>
